@@ -8,3 +8,7 @@ _________
 1. Hyderabadi Biriyani
 2. Butter Naan
 3. Butter Chicken
+## Nearby Places
+* Hitech city
+* Gachibowli
+* Cyber towers
