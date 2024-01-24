@@ -27,5 +27,6 @@ _________
 # Fav Quotes
 > *" Life is a journey,not a destination "*
 > - *Ralph Waldo*
+
 > *" not all who wander are lost "*
 > - *J.R.R. Tolkien*
