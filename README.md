@@ -14,7 +14,7 @@ _________
 * Cyber towers
 
 [MyMedia link](https://github.com/Rishil-NW/from-Dandoori/blob/19660d5d66cf774d8857a3580e28cad614136cb9/MyMedia.md)
-
+___________
 # Books
  Here are four books recommendations along with reasons why you should read them
 | Book | Reason | Author |
@@ -23,3 +23,9 @@ _________
 | Outlive | It helps to influence your lifespan | Peter Attia |
 | Ramayana | It helps to face problems while upholding ethical values | Valmiki | 
 | Bhagavad Gita | It tells about that each one of us should do our duty | Vyasa | 
+_________
+# Fav Quotes
+> *" Life is a journey,not a destination "*
+> - *Ralph Waldo*
+> *" not all who wander are lost "*
+> - *J.R.R. Tolkien*
