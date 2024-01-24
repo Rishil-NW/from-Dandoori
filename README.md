@@ -25,8 +25,8 @@ ___________
 | Bhagavad Gita | It tells about that each one of us should do our duty | Vyasa | 
 _________
 # Fav Quotes
-> *" Life is a journey,not a destination "*
-> - *Ralph Waldo*
+>*" Life is a journey,not a destination "*
+>- *Ralph Waldo*
 
-> *" not all who wander are lost "*
-> - *J.R.R. Tolkien*
+>*" not all who wander are lost "*
+>- *J.R.R. Tolkien*
