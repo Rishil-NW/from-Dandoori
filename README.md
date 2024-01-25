@@ -30,3 +30,9 @@ _________
 
 >*" not all who wander are lost "*
 >- *J.R.R. Tolkien*
+# Code Fencing
+###### Count number of occurrences in array with JavaScript
+``` 
+const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0);
+```
+[code link](https://code.pieces.app/collections/javascript)
